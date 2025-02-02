@@ -15,6 +15,7 @@ Project is created with:
 * HTML
 * Java
 * CSS
+* jquery: 3.6.0
 
 ## Demo
 https://github.com/user-attachments/assets/1793be16-0ba3-4165-a043-334b264ef7a5
